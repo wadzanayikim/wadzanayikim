@@ -4,6 +4,10 @@ Product Designer & UX Engineer for AI, Data, Mixed Reality, Education, Gaming, a
 
 Working with startups, scaleups, and teams pushing fringe innovation.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadzanayikim&layout=compact&theme=default" />
+</p>
+
 ## What I’m currently working on [ '26]
 - Fantasy & rugby data app at SCRUMMY
 - An all-in-one business management suite designed to help freelancers at ONEMATE
