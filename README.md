@@ -4,15 +4,16 @@ Product Designer & UX Engineer for AI, Data, Mixed Reality, Education, Gaming, a
 
 Working with startups, scaleups, and teams pushing fringe innovation.
 
-## What I’m working on
-- Fantasy rugby platform at Scrummy
-- AI + systems design research
-- STEM education initiatives
+## What I’m currently working on [ '26]
+- Fantasy & rugby data app at SCRUMMY
+- An all-in-one business management suite designed to help freelancers at ONEMATE
+- STEM education initiatives at STEMExplorerz
+- Other nifty projects which you might see on here
 
 ## Areas of interest
 - Gaming & Gamification
 - Ethical AI
-- Systems-led product design
+- Edtech
 - Mixed Reality
 
 ## Stack
